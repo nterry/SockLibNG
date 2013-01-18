@@ -1,10 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data;
-using System.IO;
 using System.Net;
 using System.Net.Sockets;
 using System.Threading;
+using SockLibNG.Domain.Exceptions;
 using SockLibNG.Domain.Sockets;
 using Buffer = SockLibNG.Buffers.Buffer;
 
