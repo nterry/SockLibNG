@@ -1,4 +1,4 @@
-SockLibNG
-=========
+****SockLibNG has been deprecated and is now AwesomeSockets****
+===============================================================
 
-Next generation of SockLib
+See https://github.com/nterry/AwesomeSockets 
